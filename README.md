@@ -1,1 +1,2 @@
 # WorldTraveler
+This application allows the user to convert between degrees Fahrenheit and degrees Celsius. Internationalization changes the way decimal values are displayed based on the user's region (ex. 1.5 vs 1,5 to represent one and a half). The user is able to view the world map in three different modes - Standard, Satellite, and Hybrid. The application is also localized into Russian language. 

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "75E-9L-AIW"; */
+"75E-9L-AIW.text" = "на самом деле";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "Gnk-2x-mhG"; */
+"Gnk-2x-mhG.text" = "100";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "H58-fR-5QY"; */
+"H58-fR-5QY.text" = "градусов Цельсия";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "S5N-Sa-ZmL"; */
+"S5N-Sa-ZmL.text" = "градусов Фаренгейта";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "SAt-l8-z7t"; */
+"SAt-l8-z7t.title" = "Карта";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "jkf-nC-vLD"; */
+"jkf-nC-vLD.placeholder" = "величина";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "ol1-dw-GyH"; */
+"ol1-dw-GyH.title" = "Перевести";
